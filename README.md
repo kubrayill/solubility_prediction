@@ -13,3 +13,4 @@ The goal is to predict the `LogS` value of a molecule based on its chemical stru
 * **Seaborn/Matplotlib**: For performance visualization.
 
 The model achieved an **R² score of [Insert your score here, e.g., 0.87]** on the test set.
+![Model Performance](Unknown.png)
